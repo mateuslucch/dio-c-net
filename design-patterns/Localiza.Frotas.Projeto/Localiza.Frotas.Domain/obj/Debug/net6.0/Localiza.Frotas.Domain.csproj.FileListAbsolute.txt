@@ -1,0 +1,17 @@
+D:\Programação\bootcamp\dio_bootcamp\dio-c-net\design-patterns\Localiza.Frotas.Domain\obj\Debug\net6.0\Localiza.Frotas.Domain.csproj.AssemblyReference.cache
+D:\Programação\bootcamp\dio_bootcamp\dio-c-net\design-patterns\Localiza.Frotas.Domain\obj\Debug\net6.0\Localiza.Frotas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\bootcamp\dio_bootcamp\dio-c-net\design-patterns\Localiza.Frotas.Domain\obj\Debug\net6.0\Localiza.Frotas.Domain.AssemblyInfoInputs.cache
+D:\Programação\bootcamp\dio_bootcamp\dio-c-net\design-patterns\Localiza.Frotas.Domain\obj\Debug\net6.0\Localiza.Frotas.Domain.AssemblyInfo.cs
+D:\Programação\bootcamp\dio_bootcamp\dio-c-net\design-patterns\Localiza.Frotas.Domain\obj\Debug\net6.0\Localiza.Frotas.Domain.csproj.CoreCompileInputs.cache
+D:\Programação\bootcamp\dio_bootcamp\dio-c-net\design-patterns\Localiza.Frotas.Projeto\Localiza.Frotas.Domain\bin\Debug\net6.0\Localiza.Frotas.Domain.deps.json
+D:\Programação\bootcamp\dio_bootcamp\dio-c-net\design-patterns\Localiza.Frotas.Projeto\Localiza.Frotas.Domain\bin\Debug\net6.0\Localiza.Frotas.Domain.dll
+D:\Programação\bootcamp\dio_bootcamp\dio-c-net\design-patterns\Localiza.Frotas.Projeto\Localiza.Frotas.Domain\bin\Debug\net6.0\ref\Localiza.Frotas.Domain.dll
+D:\Programação\bootcamp\dio_bootcamp\dio-c-net\design-patterns\Localiza.Frotas.Projeto\Localiza.Frotas.Domain\bin\Debug\net6.0\Localiza.Frotas.Domain.pdb
+D:\Programação\bootcamp\dio_bootcamp\dio-c-net\design-patterns\Localiza.Frotas.Projeto\Localiza.Frotas.Domain\obj\Debug\net6.0\Localiza.Frotas.Domain.csproj.AssemblyReference.cache
+D:\Programação\bootcamp\dio_bootcamp\dio-c-net\design-patterns\Localiza.Frotas.Projeto\Localiza.Frotas.Domain\obj\Debug\net6.0\Localiza.Frotas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\bootcamp\dio_bootcamp\dio-c-net\design-patterns\Localiza.Frotas.Projeto\Localiza.Frotas.Domain\obj\Debug\net6.0\Localiza.Frotas.Domain.AssemblyInfoInputs.cache
+D:\Programação\bootcamp\dio_bootcamp\dio-c-net\design-patterns\Localiza.Frotas.Projeto\Localiza.Frotas.Domain\obj\Debug\net6.0\Localiza.Frotas.Domain.AssemblyInfo.cs
+D:\Programação\bootcamp\dio_bootcamp\dio-c-net\design-patterns\Localiza.Frotas.Projeto\Localiza.Frotas.Domain\obj\Debug\net6.0\Localiza.Frotas.Domain.csproj.CoreCompileInputs.cache
+D:\Programação\bootcamp\dio_bootcamp\dio-c-net\design-patterns\Localiza.Frotas.Projeto\Localiza.Frotas.Domain\obj\Debug\net6.0\Localiza.Frotas.Domain.dll
+D:\Programação\bootcamp\dio_bootcamp\dio-c-net\design-patterns\Localiza.Frotas.Projeto\Localiza.Frotas.Domain\obj\Debug\net6.0\ref\Localiza.Frotas.Domain.dll
+D:\Programação\bootcamp\dio_bootcamp\dio-c-net\design-patterns\Localiza.Frotas.Projeto\Localiza.Frotas.Domain\obj\Debug\net6.0\Localiza.Frotas.Domain.pdb

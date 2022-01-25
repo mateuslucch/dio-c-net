@@ -1,0 +1,15 @@
+/mnt/f/programming/bootcamp/dio_bootcamp/C-net/Orientacao-a-objeto/ExemploPOO/bin/Debug/net6.0/ExemploPOO
+/mnt/f/programming/bootcamp/dio_bootcamp/C-net/Orientacao-a-objeto/ExemploPOO/bin/Debug/net6.0/ExemploPOO.dll
+/mnt/f/programming/bootcamp/dio_bootcamp/C-net/Orientacao-a-objeto/ExemploPOO/bin/Debug/net6.0/ExemploPOO.pdb
+/mnt/f/programming/bootcamp/dio_bootcamp/C-net/Orientacao-a-objeto/ExemploPOO/obj/Debug/net6.0/ExemploPOO.csproj.AssemblyReference.cache
+/mnt/f/programming/bootcamp/dio_bootcamp/C-net/Orientacao-a-objeto/ExemploPOO/obj/Debug/net6.0/ExemploPOO.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/f/programming/bootcamp/dio_bootcamp/C-net/Orientacao-a-objeto/ExemploPOO/obj/Debug/net6.0/ExemploPOO.AssemblyInfoInputs.cache
+/mnt/f/programming/bootcamp/dio_bootcamp/C-net/Orientacao-a-objeto/ExemploPOO/obj/Debug/net6.0/ExemploPOO.AssemblyInfo.cs
+/mnt/f/programming/bootcamp/dio_bootcamp/C-net/Orientacao-a-objeto/ExemploPOO/obj/Debug/net6.0/ExemploPOO.csproj.CoreCompileInputs.cache
+/mnt/f/programming/bootcamp/dio_bootcamp/C-net/Orientacao-a-objeto/ExemploPOO/obj/Debug/net6.0/ExemploPOO.dll
+/mnt/f/programming/bootcamp/dio_bootcamp/C-net/Orientacao-a-objeto/ExemploPOO/obj/Debug/net6.0/ref/ExemploPOO.dll
+/mnt/f/programming/bootcamp/dio_bootcamp/C-net/Orientacao-a-objeto/ExemploPOO/obj/Debug/net6.0/ExemploPOO.pdb
+/mnt/f/programming/bootcamp/dio_bootcamp/C-net/Orientacao-a-objeto/ExemploPOO/bin/Debug/net6.0/ExemploPOO.deps.json
+/mnt/f/programming/bootcamp/dio_bootcamp/C-net/Orientacao-a-objeto/ExemploPOO/bin/Debug/net6.0/ExemploPOO.runtimeconfig.json
+/mnt/f/programming/bootcamp/dio_bootcamp/C-net/Orientacao-a-objeto/ExemploPOO/bin/Debug/net6.0/ref/ExemploPOO.dll
+/mnt/f/programming/bootcamp/dio_bootcamp/C-net/Orientacao-a-objeto/ExemploPOO/obj/Debug/net6.0/ExemploPOO.genruntimeconfig.cache

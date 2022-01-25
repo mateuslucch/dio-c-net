@@ -1,0 +1,15 @@
+F:\programming\bootcamp\dio_bootcamp\C-net\CSharp\bin\Debug\net6.0\CSharp.exe
+F:\programming\bootcamp\dio_bootcamp\C-net\CSharp\bin\Debug\net6.0\CSharp.deps.json
+F:\programming\bootcamp\dio_bootcamp\C-net\CSharp\bin\Debug\net6.0\CSharp.runtimeconfig.json
+F:\programming\bootcamp\dio_bootcamp\C-net\CSharp\bin\Debug\net6.0\CSharp.dll
+F:\programming\bootcamp\dio_bootcamp\C-net\CSharp\bin\Debug\net6.0\ref\CSharp.dll
+F:\programming\bootcamp\dio_bootcamp\C-net\CSharp\bin\Debug\net6.0\CSharp.pdb
+F:\programming\bootcamp\dio_bootcamp\C-net\CSharp\obj\Debug\net6.0\CSharp.csproj.AssemblyReference.cache
+F:\programming\bootcamp\dio_bootcamp\C-net\CSharp\obj\Debug\net6.0\CSharp.GeneratedMSBuildEditorConfig.editorconfig
+F:\programming\bootcamp\dio_bootcamp\C-net\CSharp\obj\Debug\net6.0\CSharp.AssemblyInfoInputs.cache
+F:\programming\bootcamp\dio_bootcamp\C-net\CSharp\obj\Debug\net6.0\CSharp.AssemblyInfo.cs
+F:\programming\bootcamp\dio_bootcamp\C-net\CSharp\obj\Debug\net6.0\CSharp.csproj.CoreCompileInputs.cache
+F:\programming\bootcamp\dio_bootcamp\C-net\CSharp\obj\Debug\net6.0\CSharp.dll
+F:\programming\bootcamp\dio_bootcamp\C-net\CSharp\obj\Debug\net6.0\ref\CSharp.dll
+F:\programming\bootcamp\dio_bootcamp\C-net\CSharp\obj\Debug\net6.0\CSharp.pdb
+F:\programming\bootcamp\dio_bootcamp\C-net\CSharp\obj\Debug\net6.0\CSharp.genruntimeconfig.cache

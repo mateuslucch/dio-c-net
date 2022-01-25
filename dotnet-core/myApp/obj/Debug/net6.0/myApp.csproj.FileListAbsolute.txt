@@ -1,0 +1,15 @@
+/mnt/d/Programação/projects/bootcamp/dio_bootcamp/dotnet-core/myApp/bin/Debug/net6.0/myApp
+/mnt/d/Programação/projects/bootcamp/dio_bootcamp/dotnet-core/myApp/bin/Debug/net6.0/myApp.deps.json
+/mnt/d/Programação/projects/bootcamp/dio_bootcamp/dotnet-core/myApp/bin/Debug/net6.0/myApp.runtimeconfig.json
+/mnt/d/Programação/projects/bootcamp/dio_bootcamp/dotnet-core/myApp/bin/Debug/net6.0/myApp.dll
+/mnt/d/Programação/projects/bootcamp/dio_bootcamp/dotnet-core/myApp/bin/Debug/net6.0/ref/myApp.dll
+/mnt/d/Programação/projects/bootcamp/dio_bootcamp/dotnet-core/myApp/bin/Debug/net6.0/myApp.pdb
+/mnt/d/Programação/projects/bootcamp/dio_bootcamp/dotnet-core/myApp/obj/Debug/net6.0/myApp.csproj.AssemblyReference.cache
+/mnt/d/Programação/projects/bootcamp/dio_bootcamp/dotnet-core/myApp/obj/Debug/net6.0/myApp.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/d/Programação/projects/bootcamp/dio_bootcamp/dotnet-core/myApp/obj/Debug/net6.0/myApp.AssemblyInfoInputs.cache
+/mnt/d/Programação/projects/bootcamp/dio_bootcamp/dotnet-core/myApp/obj/Debug/net6.0/myApp.AssemblyInfo.cs
+/mnt/d/Programação/projects/bootcamp/dio_bootcamp/dotnet-core/myApp/obj/Debug/net6.0/myApp.csproj.CoreCompileInputs.cache
+/mnt/d/Programação/projects/bootcamp/dio_bootcamp/dotnet-core/myApp/obj/Debug/net6.0/myApp.dll
+/mnt/d/Programação/projects/bootcamp/dio_bootcamp/dotnet-core/myApp/obj/Debug/net6.0/ref/myApp.dll
+/mnt/d/Programação/projects/bootcamp/dio_bootcamp/dotnet-core/myApp/obj/Debug/net6.0/myApp.pdb
+/mnt/d/Programação/projects/bootcamp/dio_bootcamp/dotnet-core/myApp/obj/Debug/net6.0/myApp.genruntimeconfig.cache

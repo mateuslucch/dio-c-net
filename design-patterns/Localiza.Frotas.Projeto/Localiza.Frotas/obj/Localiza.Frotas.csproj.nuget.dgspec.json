@@ -1,0 +1,200 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Programação\\bootcamp\\dio_bootcamp\\dio-c-net\\design-patterns\\Localiza.Frotas.Projeto\\Localiza.Frotas\\Localiza.Frotas.csproj": {}
+  },
+  "projects": {
+    "D:\\Programação\\bootcamp\\dio_bootcamp\\dio-c-net\\design-patterns\\Localiza.Frotas.Projeto\\Localiza.Frotas.Domain\\Localiza.Frotas.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Programação\\bootcamp\\dio_bootcamp\\dio-c-net\\design-patterns\\Localiza.Frotas.Projeto\\Localiza.Frotas.Domain\\Localiza.Frotas.Domain.csproj",
+        "projectName": "Localiza.Frotas.Domain",
+        "projectPath": "D:\\Programação\\bootcamp\\dio_bootcamp\\dio-c-net\\design-patterns\\Localiza.Frotas.Projeto\\Localiza.Frotas.Domain\\Localiza.Frotas.Domain.csproj",
+        "packagesPath": "C:\\Users\\Mateus\\.nuget\\packages\\",
+        "outputPath": "D:\\Programação\\bootcamp\\dio_bootcamp\\dio-c-net\\design-patterns\\Localiza.Frotas.Projeto\\Localiza.Frotas.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mateus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Programação\\bootcamp\\dio_bootcamp\\dio-c-net\\design-patterns\\Localiza.Frotas.Projeto\\Localiza.Frotas.Infra\\Localiza.Frotas.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Programação\\bootcamp\\dio_bootcamp\\dio-c-net\\design-patterns\\Localiza.Frotas.Projeto\\Localiza.Frotas.Infra\\Localiza.Frotas.Infra.csproj",
+        "projectName": "Localiza.Frotas.Infra",
+        "projectPath": "D:\\Programação\\bootcamp\\dio_bootcamp\\dio-c-net\\design-patterns\\Localiza.Frotas.Projeto\\Localiza.Frotas.Infra\\Localiza.Frotas.Infra.csproj",
+        "packagesPath": "C:\\Users\\Mateus\\.nuget\\packages\\",
+        "outputPath": "D:\\Programação\\bootcamp\\dio_bootcamp\\dio-c-net\\design-patterns\\Localiza.Frotas.Projeto\\Localiza.Frotas.Infra\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mateus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Programação\\bootcamp\\dio_bootcamp\\dio-c-net\\design-patterns\\Localiza.Frotas.Projeto\\Localiza.Frotas.Domain\\Localiza.Frotas.Domain.csproj": {
+                "projectPath": "D:\\Programação\\bootcamp\\dio_bootcamp\\dio-c-net\\design-patterns\\Localiza.Frotas.Projeto\\Localiza.Frotas.Domain\\Localiza.Frotas.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Programação\\bootcamp\\dio_bootcamp\\dio-c-net\\design-patterns\\Localiza.Frotas.Projeto\\Localiza.Frotas\\Localiza.Frotas.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Programação\\bootcamp\\dio_bootcamp\\dio-c-net\\design-patterns\\Localiza.Frotas.Projeto\\Localiza.Frotas\\Localiza.Frotas.csproj",
+        "projectName": "Localiza.Frotas",
+        "projectPath": "D:\\Programação\\bootcamp\\dio_bootcamp\\dio-c-net\\design-patterns\\Localiza.Frotas.Projeto\\Localiza.Frotas\\Localiza.Frotas.csproj",
+        "packagesPath": "C:\\Users\\Mateus\\.nuget\\packages\\",
+        "outputPath": "D:\\Programação\\bootcamp\\dio_bootcamp\\dio-c-net\\design-patterns\\Localiza.Frotas.Projeto\\Localiza.Frotas\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mateus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Programação\\bootcamp\\dio_bootcamp\\dio-c-net\\design-patterns\\Localiza.Frotas.Projeto\\Localiza.Frotas.Domain\\Localiza.Frotas.Domain.csproj": {
+                "projectPath": "D:\\Programação\\bootcamp\\dio_bootcamp\\dio-c-net\\design-patterns\\Localiza.Frotas.Projeto\\Localiza.Frotas.Domain\\Localiza.Frotas.Domain.csproj"
+              },
+              "D:\\Programação\\bootcamp\\dio_bootcamp\\dio-c-net\\design-patterns\\Localiza.Frotas.Projeto\\Localiza.Frotas.Infra\\Localiza.Frotas.Infra.csproj": {
+                "projectPath": "D:\\Programação\\bootcamp\\dio_bootcamp\\dio-c-net\\design-patterns\\Localiza.Frotas.Projeto\\Localiza.Frotas.Infra\\Localiza.Frotas.Infra.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
