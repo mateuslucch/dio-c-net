@@ -1,0 +1,15 @@
+/mnt/d/programacao/bootcamp/dio_bootcamp/dio-c-net/trabalhando-arquivos-streams/Projeto/bin/Debug/net6.0/Projeto
+/mnt/d/programacao/bootcamp/dio_bootcamp/dio-c-net/trabalhando-arquivos-streams/Projeto/bin/Debug/net6.0/Projeto.dll
+/mnt/d/programacao/bootcamp/dio_bootcamp/dio-c-net/trabalhando-arquivos-streams/Projeto/bin/Debug/net6.0/Projeto.pdb
+/mnt/d/programacao/bootcamp/dio_bootcamp/dio-c-net/trabalhando-arquivos-streams/Projeto/obj/Debug/net6.0/Projeto.csproj.AssemblyReference.cache
+/mnt/d/programacao/bootcamp/dio_bootcamp/dio-c-net/trabalhando-arquivos-streams/Projeto/obj/Debug/net6.0/Projeto.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/d/programacao/bootcamp/dio_bootcamp/dio-c-net/trabalhando-arquivos-streams/Projeto/obj/Debug/net6.0/Projeto.AssemblyInfoInputs.cache
+/mnt/d/programacao/bootcamp/dio_bootcamp/dio-c-net/trabalhando-arquivos-streams/Projeto/obj/Debug/net6.0/Projeto.AssemblyInfo.cs
+/mnt/d/programacao/bootcamp/dio_bootcamp/dio-c-net/trabalhando-arquivos-streams/Projeto/obj/Debug/net6.0/Projeto.csproj.CoreCompileInputs.cache
+/mnt/d/programacao/bootcamp/dio_bootcamp/dio-c-net/trabalhando-arquivos-streams/Projeto/obj/Debug/net6.0/Projeto.dll
+/mnt/d/programacao/bootcamp/dio_bootcamp/dio-c-net/trabalhando-arquivos-streams/Projeto/obj/Debug/net6.0/refint/Projeto.dll
+/mnt/d/programacao/bootcamp/dio_bootcamp/dio-c-net/trabalhando-arquivos-streams/Projeto/obj/Debug/net6.0/Projeto.pdb
+/mnt/d/programacao/bootcamp/dio_bootcamp/dio-c-net/trabalhando-arquivos-streams/Projeto/bin/Debug/net6.0/Projeto.deps.json
+/mnt/d/programacao/bootcamp/dio_bootcamp/dio-c-net/trabalhando-arquivos-streams/Projeto/bin/Debug/net6.0/Projeto.runtimeconfig.json
+/mnt/d/programacao/bootcamp/dio_bootcamp/dio-c-net/trabalhando-arquivos-streams/Projeto/obj/Debug/net6.0/Projeto.genruntimeconfig.cache
+/mnt/d/programacao/bootcamp/dio_bootcamp/dio-c-net/trabalhando-arquivos-streams/Projeto/obj/Debug/net6.0/ref/Projeto.dll

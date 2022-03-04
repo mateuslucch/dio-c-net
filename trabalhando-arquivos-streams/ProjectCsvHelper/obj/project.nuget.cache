@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0Hxd6Hjs+URiDgRcmBvGxwt9tq4eth8W/kBa5nq9/zCpm/dCRuFry+c1PuWttspG3DBBDNNmEk2TBMsYPgkFhQ==",
+  "success": true,
+  "projectFilePath": "D:\\programacao\\dio_bootcamp\\c-net\\trabalhando-arquivos-streams\\ProjectCsvHelper\\ProjectCsvHelper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mateus\\.nuget\\packages\\csvhelper\\27.2.1\\csvhelper.27.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
